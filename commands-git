@@ -4,3 +4,8 @@ git add .
 git commit -m
 git push
 commande pour pull: git pull
+Pour ajouter une branche j'utilise la commnde : git branch add-create-branch-command
+
+pour basculer sur cette nouvelle branche je fais: git checkout add-create-branch-command
+
+
