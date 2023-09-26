@@ -1,0 +1,5 @@
+pour cloner un reppository je fais la commande git clone https://github.com/tara-derri/shell.git
+les 3 commndes de push:
+git add .
+git commit -m
+git push
